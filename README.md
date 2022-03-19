@@ -1,2 +1,2 @@
 # frdcsa
-This is the live branch of FRDCSA, intended to be a collaborative workflow with other developers.
+This is the live repository for FRDCSA, intended to be a collaborative workflow with other developers.
