@@ -1,61 +1,39 @@
 
 # Table of Contents
 
-1.  [FRDCSA Integrated Reference Manual](#orgc654b4e)
-    1.  [Table of Contents](#org5508646)
-    2.  [Introduction](#orgf38c239)
-        1.  [Purpose](#org22f7dea)
-        2.  [User Base](#org4842306)
-        3.  [Status](#orgbc69888)
-    3.  [Core Internal/Minor Systems](#org622451a)
-        1.  [Artificial Intelligence and Knowledge Representation](#orgb144ce5)
-        2.  [Natural Language Processing](#org065c9b1)
-        3.  [Software Engineering and Development](#org4a96746)
-        4.  [Education and Learning](#orgf92910e)
-        5.  [Health and Wellness](#org40949cb)
-        6.  [Personal Productivity and Life Management](#orge8083e2)
-        7.  [Communication and Social Interaction](#org6b91bf0)
-        8.  [Information Management](#org1ae21bf)
-        9.  [Security and Privacy](#orgb8271f0)
-    4.  [Specialized Tools and Projects](#org572c997)
-    5.  [Future Work](#orgfb28bbd)
-    6.  [Major Technologies Used](#org0896d6d)
+1.  [FRDCSA Integrated Reference Manual](#org1e26797)
+    1.  [Introduction](#orgee6333c)
+        1.  [Purpose](#org8e0e91a)
+        2.  [User Base](#org7006f61)
+        3.  [Status](#org1de5b2f)
+    2.  [Core Internal/Minor Systems](#org0779a55)
+        1.  [Artificial Intelligence and Knowledge Representation](#orgabfd302)
+        2.  [Natural Language Processing](#org166ece2)
+        3.  [Software Engineering and Development](#org3e240df)
+        4.  [Education and Learning](#org5da8353)
+        5.  [Health and Wellness](#org018be31)
+        6.  [Personal Productivity and Life Management](#org64c1ad5)
+        7.  [Communication and Social Interaction](#org8abde84)
+        8.  [Information Management](#orgc3f6368)
+        9.  [Security and Privacy](#org051e4db)
+    3.  [Core External/Git Systems](#orgc8994fa)
+        1.  [Under Construction](#orgabb9546)
+    4.  [Specialized Tools and Projects](#org233ec49)
+    5.  [Future Work](#org088f279)
+    6.  [Major Technologies Used](#orgdeb523e)
 
 
-<a id="orgc654b4e"></a>
+<a id="org1e26797"></a>
 
 # FRDCSA Integrated Reference Manual
 
 
-<a id="org5508646"></a>
-
-## Table of Contents
-
-1.  [Introduction](#orgf38c239)
-    1.  [Purpose](#org22f7dea)
-    2.  [User Base](#org4842306)
-    3.  [Status](#orgbc69888)
-2.  [Core Internal/Minor Systems](#org622451a)
-    1.  [Artificial Intelligence and Knowledge Representation](#orgb144ce5)
-    2.  [Natural Language Processing](#org065c9b1)
-    3.  [Software Engineering and Development](#org4a96746)
-    4.  [Education and Learning](#orgf92910e)
-    5.  [Health and Wellness](#org40949cb)
-    6.  [Personal Productivity and Life Management](#orge8083e2)
-    7.  [Communication and Social Interaction](#org6b91bf0)
-    8.  [Information Management](#org1ae21bf)
-    9.  [Security and Privacy](#orgb8271f0)
-3.  [Specialized Tools and Projects](#org572c997)
-4.  [Future Work](#orgfb28bbd)
-5.  [Major Technologies Used](#org0896d6d)
-
-
-<a id="orgf38c239"></a>
+<a id="orgee6333c"></a>
 
 ## Introduction
 
 
-<a id="org22f7dea"></a>
+<a id="org8e0e91a"></a>
 
 ### Purpose
 
@@ -68,7 +46,7 @@ in various aspects of theoretical and applied problem-solving and
 research.
 
 
-<a id="org4842306"></a>
+<a id="org7006f61"></a>
 
 ### User Base
 
@@ -79,23 +57,23 @@ research.
 -   Organizations seeking advanced AI-powered solutions
 
 
-<a id="orgbc69888"></a>
+<a id="org1de5b2f"></a>
 
 ### Status
 
-The FRDCSA is an ongoing project with many custom [internal](https://altruisticsoftware.org/frdcsa/codebases/internal)/[minor](https://altruisticsoftware.org/frdcsa/codebases/minor)
+The FRDCSA is an ongoing project with many custom [internal](https://altruisticsoftware.org/frdcsa/internal)/[minor](https://altruisticsoftware.org/frdcsa/minor)
 codebases in various stages of development. Some systems are
 functional prototypes, while others are in conceptual or early
 development stages. They integrate third-party free/libre open source
-[external](https://altruisticsoftware.org/frdcsa/codebases/external)/[git](https://altruisticsoftware.org/frdcsa/codebases/git) codebases.
+[external](https://altruisticsoftware.org/frdcsa/external)/[git](https://altruisticsoftware.org/frdcsa/git) codebases.
 
 
-<a id="org622451a"></a>
+<a id="org0779a55"></a>
 
 ## Core Internal/Minor Systems
 
 
-<a id="orgb144ce5"></a>
+<a id="orgabfd302"></a>
 
 ### Artificial Intelligence and Knowledge Representation
 
@@ -118,7 +96,7 @@ development stages. They integrate third-party free/libre open source
 -   Thinker: Cognitive system for interpreting text
 
 
-<a id="org065c9b1"></a>
+<a id="org166ece2"></a>
 
 ### Natural Language Processing
 
@@ -135,7 +113,7 @@ development stages. They integrate third-party free/libre open source
 -   Paraphraser: Text paraphrasing tool
 
 
-<a id="org4a96746"></a>
+<a id="org3e240df"></a>
 
 ### Software Engineering and Development
 
@@ -153,7 +131,7 @@ development stages. They integrate third-party free/libre open source
 -   System Implementor: Tools for reimplementing systems from research papers
 
 
-<a id="orgf92910e"></a>
+<a id="org5da8353"></a>
 
 ### Education and Learning
 
@@ -165,7 +143,7 @@ development stages. They integrate third-party free/libre open source
 -   Textbook-knowledge-formation: Knowledge extraction from textbooks
 
 
-<a id="org40949cb"></a>
+<a id="org018be31"></a>
 
 ### Health and Wellness
 
@@ -178,7 +156,7 @@ development stages. They integrate third-party free/libre open source
 -   Medical-diagnosis-prolog: Prolog-based medical diagnosis system
 
 
-<a id="orge8083e2"></a>
+<a id="org64c1ad5"></a>
 
 ### Personal Productivity and Life Management
 
@@ -197,7 +175,7 @@ development stages. They integrate third-party free/libre open source
 -   Todo Systems: Various todo system implementations
 
 
-<a id="org6b91bf0"></a>
+<a id="org8abde84"></a>
 
 ### Communication and Social Interaction
 
@@ -211,7 +189,7 @@ development stages. They integrate third-party free/libre open source
 -   Social Media Presence: Social media post coordination and logging
 
 
-<a id="org1ae21bf"></a>
+<a id="orgc3f6368"></a>
 
 ### Information Management
 
@@ -227,7 +205,7 @@ development stages. They integrate third-party free/libre open source
 -   Factionary: Computational semantics-based memory system
 
 
-<a id="orgb8271f0"></a>
+<a id="org051e4db"></a>
 
 ### Security and Privacy
 
@@ -241,7 +219,17 @@ development stages. They integrate third-party free/libre open source
 -   Scrubber: Information de-identification system
 
 
-<a id="org572c997"></a>
+<a id="orgc8994fa"></a>
+
+## Core External/Git Systems
+
+
+<a id="orgabb9546"></a>
+
+### Under Construction
+
+
+<a id="org233ec49"></a>
 
 ## Specialized Tools and Projects
 
@@ -262,7 +250,7 @@ development stages. They integrate third-party free/libre open source
 -   WSM (World State Monitor): Real-world state tracking and syncing for planning
 
 
-<a id="orgfb28bbd"></a>
+<a id="org088f279"></a>
 
 ## Future Work
 
@@ -272,7 +260,7 @@ development stages. They integrate third-party free/libre open source
 -   Enhancement of AI capabilities across all systems
 
 
-<a id="org0896d6d"></a>
+<a id="orgdeb523e"></a>
 
 ## Major Technologies Used
 
