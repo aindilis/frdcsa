@@ -1,68 +1,74 @@
 
 # Table of Contents
 
-1.  [FRDCSA Integrated Reference Manual](#orgcba5889)
-    1.  [Table of Contents](#org137d918)
-    2.  [Introduction](#org0c0756d)
-        1.  [Purpose](#org06d239d)
-        2.  [User Base](#org9cbd98e)
-        3.  [Status](#org0638f25)
-    3.  [Core Systems](#org602622f)
-        1.  [Artificial Intelligence and Knowledge Representation](#org08b2bfe)
-        2.  [Natural Language Processing](#org580d668)
-        3.  [Software Engineering and Development](#org7c984ee)
-        4.  [Education and Learning](#orgd173ea3)
-        5.  [Health and Wellness](#org65a50d6)
-        6.  [Personal Productivity and Life Management](#org848fe73)
-        7.  [Communication and Social Interaction](#org685d51e)
-        8.  [Information Management](#org9697860)
-        9.  [Security and Privacy](#org7205f79)
-    4.  [Specialized Tools and Projects](#orga1df55a)
-    5.  [Future Work](#orgeedb741)
-    6.  [Major Technologies Used](#org35d60ea)
+1.  [FRDCSA Integrated Reference Manual](#orgc654b4e)
+    1.  [Table of Contents](#org5508646)
+    2.  [Introduction](#orgf38c239)
+        1.  [Purpose](#org22f7dea)
+        2.  [User Base](#org4842306)
+        3.  [Status](#orgbc69888)
+    3.  [Core Internal/Minor Systems](#org622451a)
+        1.  [Artificial Intelligence and Knowledge Representation](#orgb144ce5)
+        2.  [Natural Language Processing](#org065c9b1)
+        3.  [Software Engineering and Development](#org4a96746)
+        4.  [Education and Learning](#orgf92910e)
+        5.  [Health and Wellness](#org40949cb)
+        6.  [Personal Productivity and Life Management](#orge8083e2)
+        7.  [Communication and Social Interaction](#org6b91bf0)
+        8.  [Information Management](#org1ae21bf)
+        9.  [Security and Privacy](#orgb8271f0)
+    4.  [Specialized Tools and Projects](#org572c997)
+    5.  [Future Work](#orgfb28bbd)
+    6.  [Major Technologies Used](#org0896d6d)
 
 
-<a id="orgcba5889"></a>
+<a id="orgc654b4e"></a>
 
 # FRDCSA Integrated Reference Manual
 
 
-<a id="org137d918"></a>
+<a id="org5508646"></a>
 
 ## Table of Contents
 
-1.  [Introduction](#org0c0756d)
-    1.  [Purpose](#org06d239d)
-    2.  [User Base](#org9cbd98e)
-    3.  [Status](#org0638f25)
-2.  [Core Systems](#org602622f)
-    1.  [Artificial Intelligence and Knowledge Representation](#org08b2bfe)
-    2.  [Natural Language Processing](#org580d668)
-    3.  [Software Engineering and Development](#org7c984ee)
-    4.  [Education and Learning](#orgd173ea3)
-    5.  [Health and Wellness](#org65a50d6)
-    6.  [Personal Productivity and Life Management](#org848fe73)
-    7.  [Communication and Social Interaction](#org685d51e)
-    8.  [Information Management](#org9697860)
-    9.  [Security and Privacy](#org7205f79)
-3.  [Specialized Tools and Projects](#orga1df55a)
-4.  [Future Work](#orgeedb741)
-5.  [Major Technologies Used](#org35d60ea)
+1.  [Introduction](#orgf38c239)
+    1.  [Purpose](#org22f7dea)
+    2.  [User Base](#org4842306)
+    3.  [Status](#orgbc69888)
+2.  [Core Internal/Minor Systems](#org622451a)
+    1.  [Artificial Intelligence and Knowledge Representation](#orgb144ce5)
+    2.  [Natural Language Processing](#org065c9b1)
+    3.  [Software Engineering and Development](#org4a96746)
+    4.  [Education and Learning](#orgf92910e)
+    5.  [Health and Wellness](#org40949cb)
+    6.  [Personal Productivity and Life Management](#orge8083e2)
+    7.  [Communication and Social Interaction](#org6b91bf0)
+    8.  [Information Management](#org1ae21bf)
+    9.  [Security and Privacy](#orgb8271f0)
+3.  [Specialized Tools and Projects](#org572c997)
+4.  [Future Work](#orgfb28bbd)
+5.  [Major Technologies Used](#org0896d6d)
 
 
-<a id="org0c0756d"></a>
+<a id="orgf38c239"></a>
 
 ## Introduction
 
 
-<a id="org06d239d"></a>
+<a id="org22f7dea"></a>
 
 ### Purpose
 
-The FRDCSA (Formalized Research Database: Cluster, Study and Apply) is a comprehensive collection of custom internal/minor and third-party external/git codebases designed to address a wide range of complex problems using artificial intelligence and open-source software. Its purpose is to create an integrated ecosystem of tools that can assist in various aspects of life, research, and problem-solving.
+The FRDCSA (Formalized Research Database: Cluster, Study and Apply) is
+a comprehensive collection of custom internal/minor and third-party
+external/git codebases designed to address a wide range of complex
+problems using artificial intelligence and open-source software. Its
+purpose is to create an integrated ecosystem of tools that can assist
+in various aspects of theoretical and applied problem-solving and
+research.
 
 
-<a id="org9cbd98e"></a>
+<a id="org4842306"></a>
 
 ### User Base
 
@@ -73,19 +79,23 @@ The FRDCSA (Formalized Research Database: Cluster, Study and Apply) is a compreh
 -   Organizations seeking advanced AI-powered solutions
 
 
-<a id="org0638f25"></a>
+<a id="orgbc69888"></a>
 
 ### Status
 
-The FRDCSA is an ongoing project with many custom internal/minor codebases in various stages of development. Some systems are functional prototypes, while others are in conceptual or early development stages.
+The FRDCSA is an ongoing project with many custom [internal](https://altruisticsoftware.org/frdcsa/codebases/internal)/[minor](https://altruisticsoftware.org/frdcsa/codebases/minor)
+codebases in various stages of development. Some systems are
+functional prototypes, while others are in conceptual or early
+development stages. They integrate third-party free/libre open source
+[external](https://altruisticsoftware.org/frdcsa/codebases/external)/[git](https://altruisticsoftware.org/frdcsa/codebases/git) codebases.
 
 
-<a id="org602622f"></a>
+<a id="org622451a"></a>
 
 ## Core Internal/Minor Systems
 
 
-<a id="org08b2bfe"></a>
+<a id="orgb144ce5"></a>
 
 ### Artificial Intelligence and Knowledge Representation
 
@@ -108,7 +118,7 @@ The FRDCSA is an ongoing project with many custom internal/minor codebases in va
 -   Thinker: Cognitive system for interpreting text
 
 
-<a id="org580d668"></a>
+<a id="org065c9b1"></a>
 
 ### Natural Language Processing
 
@@ -125,7 +135,7 @@ The FRDCSA is an ongoing project with many custom internal/minor codebases in va
 -   Paraphraser: Text paraphrasing tool
 
 
-<a id="org7c984ee"></a>
+<a id="org4a96746"></a>
 
 ### Software Engineering and Development
 
@@ -143,7 +153,7 @@ The FRDCSA is an ongoing project with many custom internal/minor codebases in va
 -   System Implementor: Tools for reimplementing systems from research papers
 
 
-<a id="orgd173ea3"></a>
+<a id="orgf92910e"></a>
 
 ### Education and Learning
 
@@ -155,7 +165,7 @@ The FRDCSA is an ongoing project with many custom internal/minor codebases in va
 -   Textbook-knowledge-formation: Knowledge extraction from textbooks
 
 
-<a id="org65a50d6"></a>
+<a id="org40949cb"></a>
 
 ### Health and Wellness
 
@@ -168,7 +178,7 @@ The FRDCSA is an ongoing project with many custom internal/minor codebases in va
 -   Medical-diagnosis-prolog: Prolog-based medical diagnosis system
 
 
-<a id="org848fe73"></a>
+<a id="orge8083e2"></a>
 
 ### Personal Productivity and Life Management
 
@@ -187,7 +197,7 @@ The FRDCSA is an ongoing project with many custom internal/minor codebases in va
 -   Todo Systems: Various todo system implementations
 
 
-<a id="org685d51e"></a>
+<a id="org6b91bf0"></a>
 
 ### Communication and Social Interaction
 
@@ -201,7 +211,7 @@ The FRDCSA is an ongoing project with many custom internal/minor codebases in va
 -   Social Media Presence: Social media post coordination and logging
 
 
-<a id="org9697860"></a>
+<a id="org1ae21bf"></a>
 
 ### Information Management
 
@@ -217,7 +227,7 @@ The FRDCSA is an ongoing project with many custom internal/minor codebases in va
 -   Factionary: Computational semantics-based memory system
 
 
-<a id="org7205f79"></a>
+<a id="orgb8271f0"></a>
 
 ### Security and Privacy
 
@@ -231,7 +241,7 @@ The FRDCSA is an ongoing project with many custom internal/minor codebases in va
 -   Scrubber: Information de-identification system
 
 
-<a id="orga1df55a"></a>
+<a id="org572c997"></a>
 
 ## Specialized Tools and Projects
 
@@ -252,7 +262,7 @@ The FRDCSA is an ongoing project with many custom internal/minor codebases in va
 -   WSM (World State Monitor): Real-world state tracking and syncing for planning
 
 
-<a id="orgeedb741"></a>
+<a id="orgfb28bbd"></a>
 
 ## Future Work
 
@@ -262,7 +272,7 @@ The FRDCSA is an ongoing project with many custom internal/minor codebases in va
 -   Enhancement of AI capabilities across all systems
 
 
-<a id="org35d60ea"></a>
+<a id="org0896d6d"></a>
 
 ## Major Technologies Used
 
