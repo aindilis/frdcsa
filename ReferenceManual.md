@@ -59,7 +59,7 @@
 
 ### Purpose
 
-The FRDCSA (Formalized Research Database: Cluster, Study and Apply) is a comprehensive collection of internal and minor codebases designed to address a wide range of complex problems using artificial intelligence and open-source software. Its purpose is to create an integrated ecosystem of tools that can assist in various aspects of life, research, and problem-solving.
+The FRDCSA (Formalized Research Database: Cluster, Study and Apply) is a comprehensive collection of custom internal/minor and third-party external/git codebases designed to address a wide range of complex problems using artificial intelligence and open-source software. Its purpose is to create an integrated ecosystem of tools that can assist in various aspects of life, research, and problem-solving.
 
 
 <a id="org9cbd98e"></a>
@@ -77,12 +77,12 @@ The FRDCSA (Formalized Research Database: Cluster, Study and Apply) is a compreh
 
 ### Status
 
-The FRDCSA is an ongoing project with many internal and minor codebases in various stages of development. Some systems are functional prototypes, while others are in conceptual or early development stages.
+The FRDCSA is an ongoing project with many custom internal/minor codebases in various stages of development. Some systems are functional prototypes, while others are in conceptual or early development stages.
 
 
 <a id="org602622f"></a>
 
-## Core Systems
+## Core Internal/Minor Systems
 
 
 <a id="org08b2bfe"></a>
