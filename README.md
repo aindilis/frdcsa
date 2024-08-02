@@ -3,5 +3,5 @@
 
 
 
-This page has been re-integrated into the [Reference Manual](https://github.com/aindilis/flp/blob/main/ReferenceManual.md).
+Please follow this link to the under-construction [FRDCSA Reference Manual](https://github.com/aindilis/frdcsa/blob/main/ReferenceManual.md).
 
